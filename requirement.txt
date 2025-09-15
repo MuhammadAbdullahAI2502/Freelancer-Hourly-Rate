@@ -1,10 +1,6 @@
-tensorflow==2.13.0
+streamlit
+matplotlib
+scikit-learn
 pandas
 numpy
-scikit-learn
-tensorboard
-matplotlib
-streamlit
 joblib
-
-
